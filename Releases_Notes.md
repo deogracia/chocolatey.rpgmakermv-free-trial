@@ -2,6 +2,8 @@
 
 # Unpublished
 
-* First try on chocolatey package
-
 # Published
+
+## 1.6.1-1
+
+* First try on chocolatey package
