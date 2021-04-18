@@ -3,7 +3,7 @@
 ## Get it from chocolatey
 
 ```
-choc install rpgmakermv-free-trial
+choco install rpgmakermv-free-trial
 ```
 
 ## Update it!
