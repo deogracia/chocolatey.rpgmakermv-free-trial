@@ -9,9 +9,12 @@
     <title>rpgmakermv-free-trial (Install)</title>
     <authors>KADOKAWA CORPORATION,Degica</authors>
     <projectUrl>https://www.rpgmakerweb.com/products/rpg-maker-mv</projectUrl>
+	<bugTrackerUrl>https://www.rpgmakerweb.com/support</bugTrackerUrl>
+	<licenseUrl>https://www.rpgmakerweb.com/eula</licenseUrl>
+	<docsUrl>https://forums.rpgmakerweb.com/index.php</docsUrl>
     <copyright>2015 KADOKAWA CORPORATION / Yoji Ojima</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <tags>rpgmakermv-free-trial rpgmaker rpg editor game</tags>
+    <tags>rpgmakermv free-trial trial rpgmaker rpg editor game</tags>
     <summary>RPG MAKER MV lets you create an original RPG for Windows, MacOS, or Linux</summary>
     <description>RPG MAKER MV lets you create an original RPG for Windows, MacOS, Linux, Iphone and Android</description>
     <releaseNotes>https://github.com/deogracia/chocolatey.rpgmakermv-free-trial/blob/main/Releases_Notes.md</releaseNotes>
